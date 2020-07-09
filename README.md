@@ -1,1 +1,1 @@
-![banner](banner.png=250*250)
+![banner](banner.png =250*250)
