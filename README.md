@@ -1,1 +1,1 @@
-![banner](banner.png =250*250)
+[![Sangramjit Maity header](https://raw.githubusercontent.com/Sangramjit/Sangramjit/blob/master/banner.png)]
