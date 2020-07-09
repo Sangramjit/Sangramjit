@@ -1,1 +1,1 @@
-![banner](banner.png|width=100)
+![banner](banner.png |width=100)
