@@ -1,1 +1,1 @@
-[![Sangramjit Maity header](https://raw.githubusercontent.com/Sangramjit/Sangramjit/blob/master/banner.png)]
+[![Sangramjit Maity header](https://github.com/Sangramjit/Sangramjit/blob/master/banner.png)]
