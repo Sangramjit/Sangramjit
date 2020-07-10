@@ -4,7 +4,7 @@
 </p>
 
  :pushpin:Find my design portfolio on: sangram-port.weebly.com<br/>
- :mortar_board:Product Designing,Machine Learning & HCI
- :pill:Always available for conversation regarding Tech & Design
- :e-mail:Contact me:sangramjitmaity@gmail.com
- :bulb:"I never lose.I either win or learn"-Nelson Mandela
+ :mortar_board:Product Designing,Machine Learning & HCI<br/>
+ :pill:Always available for conversation regarding Tech & Design<br/>
+ :e-mail:Contact me:sangramjitmaity@gmail.com<br/>
+ :bulb:"I never lose.I either win or learn"-Nelson Mandela<br/>
